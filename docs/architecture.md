@@ -98,3 +98,7 @@ Probe outputs prevent Yosys from stripping the entire design during optimization
 ## Clocking
 
 Target period in `config.json`: **20 ns** (50 MHz nominal). Post-layout STA reports ~12.9 ns setup slack at typical corner (see [Physical design](physical-design.md)).
+
+## Verification
+
+Directed Icarus Verilog tests live under `sim/`. A full-system program (`lw` + NOP bubbles + `add`) checks the pipeline with preload of `instr_mem` and `dmem`. See [Simulation](simulation.md).
