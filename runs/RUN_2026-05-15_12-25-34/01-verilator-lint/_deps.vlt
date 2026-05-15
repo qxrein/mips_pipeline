@@ -1,0 +1,5 @@
+`verilator_config
+lint_off -rule DECLFILENAME
+lint_off -rule EOFNEWLINE
+lint_off -rule UNDRIVEN -file "/Users/rein/mips_pipeline/runs/RUN_2026-05-15_12-25-34/tmp/3cbcbadd39a14384a6f079ac54af6e4e.bb.v"
+lint_off -rule UNUSEDSIGNAL -file "/Users/rein/mips_pipeline/runs/RUN_2026-05-15_12-25-34/tmp/3cbcbadd39a14384a6f079ac54af6e4e.bb.v"

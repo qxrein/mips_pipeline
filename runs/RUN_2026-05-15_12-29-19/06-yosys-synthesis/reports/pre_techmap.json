@@ -1,0 +1,51 @@
+{
+   "creator": "Yosys 0.62 (git sha1 7326bb7d6641500ecb285c291a54a662cb1e76cf, clang++ 21.1.2 -fPIC -O3)",
+   "invocation": "stat -json -liberty /Users/rein/mips_pipeline/runs/RUN_2026-05-15_12-29-19/tmp/cbe1901153424d688956d3c61144cc89.lib ",
+   "modules": {
+      "\\mips_top": {
+         "num_wires":         55,
+         "num_wire_bits":     179,
+         "num_pub_wires":     6,
+         "num_pub_wire_bits": 130,
+         "num_ports":         5,
+         "num_port_bits":     98,
+         "num_memories":      0,
+         "num_memory_bits":   0,
+         "num_processes":     0,
+         "num_cells":         109,
+         "num_submodules":       0,
+         "num_cells_by_type": {
+            "$_ANDNOT_": 14,
+            "$_NAND_": 14,
+            "$_NOT_": 1,
+            "$_OR_": 21,
+            "$_SDFF_PP0_": 30,
+            "$_XNOR_": 14,
+            "$_XOR_": 15
+         }
+      }
+   },
+      "design": {
+         "num_wires":         55,
+         "num_wire_bits":     179,
+         "num_pub_wires":     6,
+         "num_pub_wire_bits": 130,
+         "num_ports":         5,
+         "num_port_bits":     98,
+         "num_memories":      0,
+         "num_memory_bits":   0,
+         "num_processes":     0,
+         "num_cells":         109,
+         "num_submodules":       0,
+         "num_cells_by_type": {
+            "$_ANDNOT_": 14,
+            "$_NAND_": 14,
+            "$_NOT_": 1,
+            "$_OR_": 21,
+            "$_SDFF_PP0_": 30,
+            "$_XNOR_": 14,
+            "$_XOR_": 15
+         }
+      }
+}
+

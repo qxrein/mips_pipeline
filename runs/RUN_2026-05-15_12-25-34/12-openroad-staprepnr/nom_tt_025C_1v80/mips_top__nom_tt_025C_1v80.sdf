@@ -1,0 +1,21 @@
+(DELAYFILE
+ (SDFVERSION "3.0")
+ (DESIGN "mips_top")
+ (DATE "Fri May 15 12:25:37 2026")
+ (VENDOR "Parallax")
+ (PROGRAM "STA")
+ (VERSION "2.7.0")
+ (DIVIDER .)
+ (VOLTAGE 1.800::1.800)
+ (PROCESS "1.000::1.000")
+ (TEMPERATURE 25.000::25.000)
+ (TIMESCALE 1ns)
+ (CELL
+  (CELLTYPE "mips_top")
+  (INSTANCE)
+  (DELAY
+   (ABSOLUTE
+   )
+  )
+ )
+)

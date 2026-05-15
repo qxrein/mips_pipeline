@@ -1,0 +1,105 @@
+Reading timing models for corner max_tt_025C_1v80…
+Reading timing library for the 'max_tt_025C_1v80' corner at '/Users/rein/projects/librelane/pdks/ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib'…
+Reading timing models for corner min_ss_100C_1v60…
+Reading timing library for the 'min_ss_100C_1v60' corner at '/Users/rein/projects/librelane/pdks/ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ss_100C_1v60.lib'…
+Reading timing models for corner nom_tt_025C_1v80…
+Reading timing library for the 'nom_tt_025C_1v80' corner at '/Users/rein/projects/librelane/pdks/ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib'…
+[WARNING STA-1140] /Users/rein/projects/librelane/pdks/ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib line 1, library sky130_fd_sc_hd__tt_025C_1v80 already exists.
+Reading timing models for corner max_ff_n40C_1v95…
+Reading timing library for the 'max_ff_n40C_1v95' corner at '/Users/rein/projects/librelane/pdks/ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib'…
+Reading timing models for corner nom_ff_n40C_1v95…
+Reading timing library for the 'nom_ff_n40C_1v95' corner at '/Users/rein/projects/librelane/pdks/ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib'…
+[WARNING STA-1140] /Users/rein/projects/librelane/pdks/ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1, library sky130_fd_sc_hd__ff_n40C_1v95 already exists.
+Reading timing models for corner max_ss_100C_1v60…
+Reading timing library for the 'max_ss_100C_1v60' corner at '/Users/rein/projects/librelane/pdks/ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ss_100C_1v60.lib'…
+[WARNING STA-1140] /Users/rein/projects/librelane/pdks/ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ss_100C_1v60.lib line 1, library sky130_fd_sc_hd__ss_100C_1v60 already exists.
+Reading timing models for corner min_tt_025C_1v80…
+Reading timing library for the 'min_tt_025C_1v80' corner at '/Users/rein/projects/librelane/pdks/ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib'…
+[WARNING STA-1140] /Users/rein/projects/librelane/pdks/ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib line 1, library sky130_fd_sc_hd__tt_025C_1v80 already exists.
+Reading timing models for corner nom_ss_100C_1v60…
+Reading timing library for the 'nom_ss_100C_1v60' corner at '/Users/rein/projects/librelane/pdks/ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ss_100C_1v60.lib'…
+[WARNING STA-1140] /Users/rein/projects/librelane/pdks/ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ss_100C_1v60.lib line 1, library sky130_fd_sc_hd__ss_100C_1v60 already exists.
+Reading timing models for corner min_ff_n40C_1v95…
+Reading timing library for the 'min_ff_n40C_1v95' corner at '/Users/rein/projects/librelane/pdks/ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib'…
+[WARNING STA-1140] /Users/rein/projects/librelane/pdks/ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1, library sky130_fd_sc_hd__ff_n40C_1v95 already exists.
+Reading OpenROAD database at '/Users/rein/mips_pipeline/runs/RUN_2026-05-15_12-29-19/28-openroad-globalplacement/mips_top.odb'…
+Reading design constraints file at '/nix/store/7xzs1bi9a4c6d3r2fd77rbyy4dv6cqs8-python3-3.13.9-env/lib/python3.13/site-packages/librelane/scripts/base.sdc'…
+[INFO] Using clock clk…
+[INFO] Setting output delay to: 4
+[INFO] Setting input delay to: 4
+[INFO] Setting load to: 0.033442
+[INFO] Setting clock uncertainty to: 0.25
+[INFO] Setting clock transition to: 0.1499999999999999944488848768742172978818416595458984375
+[INFO] Setting timing derate to: 5%
+[INFO RSZ-0027] Inserted 1 sky130_fd_sc_hd__clkdlybuf4s25_1 input buffers.
+[INFO RSZ-0028] Inserted 30 sky130_fd_sc_hd__clkdlybuf4s25_1 output buffers.
++ repair_design -verbose -max_wire_length 0 -slew_margin 20 -cap_margin 20
+Iteration |   Area    | Resized | Buffers | Nets repaired | Remaining
+---------------------------------------------------------------------
+        0 |     +0.0% |       0 |       0 |             0 |       279
+       10 |     +0.0% |       0 |       0 |             0 |       269
+       20 |     +0.0% |       0 |       0 |             0 |       259
+       30 |     +0.0% |       0 |       0 |             0 |       249
+       40 |     +0.0% |       0 |       0 |             0 |       239
+       50 |     +0.0% |       0 |       0 |             0 |       229
+       60 |     +0.0% |       0 |       0 |             0 |       219
+       70 |     +0.0% |       0 |       0 |             0 |       209
+       80 |     +0.0% |       0 |       0 |             0 |       199
+       90 |     +0.0% |       0 |       0 |             0 |       189
+      100 |     +0.0% |       0 |       0 |             0 |       179
+      110 |     +0.0% |       0 |       0 |             0 |       169
+      120 |     +0.0% |       0 |       0 |             0 |       159
+      130 |     +0.0% |       0 |       0 |             0 |       149
+      140 |     +0.0% |       0 |       0 |             0 |       139
+      150 |     +2.9% |       0 |       6 |             1 |       129
+      160 |     +2.9% |       0 |       6 |             1 |       119
+      170 |     +2.9% |       0 |       6 |             1 |       109
+      180 |     +2.9% |       0 |       6 |             1 |        99
+      190 |     +2.9% |       0 |       6 |             1 |        89
+      200 |     +2.9% |       0 |       6 |             1 |        79
+      210 |     +2.9% |       0 |       6 |             1 |        69
+      220 |     +2.9% |       0 |       6 |             1 |        59
+      230 |     +2.9% |       0 |       6 |             1 |        49
+      240 |     +2.9% |       0 |       6 |             1 |        39
+      250 |     +2.9% |       0 |       6 |             1 |        29
+      260 |     +2.9% |       0 |       6 |             1 |        19
+      270 |     +2.9% |       0 |       6 |             1 |         9
+    final |     +2.9% |       0 |       6 |             1 |         0
+---------------------------------------------------------------------
+[INFO RSZ-0034] Found 1 slew violations.
+[INFO RSZ-0035] Found 1 fanout violations.
+[INFO RSZ-0038] Inserted 6 buffers in 1 nets.
+[INFO RSZ-0042] Inserted 66 tie sky130_fd_sc_hd__conb_1 instances.
+[WARNING RSZ-0020] found 2 floating nets.
+ VGND
+ VPWR
++ detailed_placement -max_displacement  500 100 
+Placement Analysis
+---------------------------------
+total displacement        965.7 u
+average displacement        3.1 u
+max displacement           16.9 u
+original HPWL            2399.9 u
+legalized HPWL           2912.0 u
+delta HPWL                   21 %
+
+[INFO DPL-0020] Mirrored 91 instances
+[INFO DPL-0021] HPWL before            2912.0 u
+[INFO DPL-0022] HPWL after             2783.7 u
+[INFO DPL-0023] HPWL delta               -4.4 %
+Setting global connections for newly added cells…
+[INFO] Setting global connections...
+[INFO ODB-0403] 412 connections made, 0 conflicts skipped.
+Updating metrics…
+Cell type report:                       Count       Area
+  Fill cell                                46     172.67
+  Tap cell                                 50      62.56
+  Timing Repair Buffer                     37     365.35
+  Sequential cell                          30     638.11
+  Multi-Input combinational cell          150     953.41
+  Total                                   313    2192.10
+Writing OpenROAD database to '/Users/rein/mips_pipeline/runs/RUN_2026-05-15_12-29-19/32-openroad-repairdesignpostgpl/mips_top.odb'…
+Writing netlist to '/Users/rein/mips_pipeline/runs/RUN_2026-05-15_12-29-19/32-openroad-repairdesignpostgpl/mips_top.nl.v'…
+Writing powered netlist to '/Users/rein/mips_pipeline/runs/RUN_2026-05-15_12-29-19/32-openroad-repairdesignpostgpl/mips_top.pnl.v'…
+Writing layout to '/Users/rein/mips_pipeline/runs/RUN_2026-05-15_12-29-19/32-openroad-repairdesignpostgpl/mips_top.def'…
+Writing timing constraints to '/Users/rein/mips_pipeline/runs/RUN_2026-05-15_12-29-19/32-openroad-repairdesignpostgpl/mips_top.sdc'…

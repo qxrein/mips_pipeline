@@ -1,0 +1,19 @@
+// DESCRIPTION: Verilator output: Waivers generated with --waiver-output
+
+`verilator_config
+
+// Below are suggested waivers. You have three options:
+//   1. Fix the reason for the linter warning in the Verilog sources
+//   2. Keep the waiver permanently if you are sure it is okay
+//   3. Keep the waiver temporarily to suppress the output
+
+// lint_off -rule UNDRIVEN -file "*/Users/rein/mips_pipeline/src/mips_top.v" -match "Signal is not driven: 'instr_mem'*"
+
+// lint_off -rule UNUSEDSIGNAL -file "*/Users/rein/mips_pipeline/src/mips_top.v" -match "Signal is not used: 'idex_pc'*"
+
+// lint_off -rule UNUSEDSIGNAL -file "*/Users/rein/mips_pipeline/src/mips_top.v" -match "Signal is not used: 'exmem_zero'*"
+
+// lint_off -rule UNUSEDSIGNAL -file "*/Users/rein/mips_pipeline/src/mips_top.v" -match "Signal is not used: 'exmem_branch'*"
+
+// lint_off -rule UNUSEDSIGNAL -file "*/Users/rein/mips_pipeline/src/data_memory.v" -match "Bits of signal are not used: 'addr'[31:10,1:0]*"
+

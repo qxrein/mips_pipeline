@@ -1,0 +1,21 @@
+{
+  "PDK": "sky130A",
+  "DESIGN_NAME": "mips_top",
+  "VERILOG_FILES": [
+    "dir::src/mips_top.v",
+    "dir::src/control_unit.v",
+    "dir::src/alu.v",
+    "dir::src/register_file.v",
+    "dir::src/data_memory.v",
+    "dir::src/if_id_reg.v",
+    "dir::src/id_ex_reg.v",
+    "dir::src/ex_mem_reg.v",
+    "dir::src/mem_wb_reg.v"
+  ],
+  "CLOCK_PORT": "clk",
+  "CLOCK_PERIOD": 20,
+  "PDN_MULTILAYER": true,
+  "MAX_FANOUT_CONSTRAINT": 10,
+  "FP_CORE_UTIL": 40,
+  "PL_TARGET_DENSITY_PCT": 45
+}
