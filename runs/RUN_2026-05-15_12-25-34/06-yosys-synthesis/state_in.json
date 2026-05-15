@@ -1,0 +1,9 @@
+{
+    "json_h": "/Users/rein/mips_pipeline/runs/RUN_2026-05-15_12-25-34/05-yosys-jsonheader/mips_top.h.json",
+    "metrics": {
+        "design__lint_error__count": 0,
+        "design__lint_timing_construct__count": 0,
+        "design__lint_warning__count": 6,
+        "design__inferred_latch__count": 0
+    }
+}

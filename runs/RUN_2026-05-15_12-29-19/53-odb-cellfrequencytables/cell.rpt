@@ -1,0 +1,23 @@
+                                Cells by Master                                 
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━┓
+┃ Cell                                                           ┃ Count       ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━┩
+│ sky130_fd_sc_hd__a21oi_2                                       │ 19          │
+│ sky130_fd_sc_hd__and2_2                                        │ 9           │
+│ sky130_fd_sc_hd__and3_2                                        │ 9           │
+│ sky130_fd_sc_hd__and4_2                                        │ 7           │
+│ sky130_fd_sc_hd__buf_4                                         │ 2           │
+│ sky130_fd_sc_hd__clkbuf_16                                     │ 5           │
+│ sky130_fd_sc_hd__clkbuf_4                                      │ 2           │
+│ sky130_fd_sc_hd__clkdlybuf4s25_1                               │ 35          │
+│ sky130_fd_sc_hd__conb_1                                        │ 66          │
+│ sky130_fd_sc_hd__decap_3                                       │ 331         │
+│ sky130_fd_sc_hd__dfxtp_2                                       │ 30          │
+│ sky130_fd_sc_hd__dlygate4sd3_1                                 │ 35          │
+│ sky130_fd_sc_hd__fill_1                                        │ 62          │
+│ sky130_fd_sc_hd__fill_2                                        │ 45          │
+│ sky130_fd_sc_hd__nor2_2                                        │ 11          │
+│ sky130_fd_sc_hd__nor3_2                                        │ 9           │
+│ sky130_fd_sc_hd__o21a_2                                        │ 20          │
+│ sky130_fd_sc_hd__tapvpwrvgnd_1                                 │ 50          │
+└────────────────────────────────────────────────────────────────┴─────────────┘

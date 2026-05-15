@@ -1,0 +1,39 @@
+{
+   "creator": "Yosys 0.62 (git sha1 7326bb7d6641500ecb285c291a54a662cb1e76cf, clang++ 21.1.2 -fPIC -O3)",
+   "invocation": "stat -json -liberty /Users/rein/mips_pipeline/runs/RUN_2026-05-15_12-25-34/tmp/3ccfa0aaf236403d888759d2a9f12aa9.lib ",
+   "modules": {
+      "\\mips_top": {
+         "num_wires":         2,
+         "num_wire_bits":     2,
+         "num_pub_wires":     2,
+         "num_pub_wire_bits": 2,
+         "num_ports":         2,
+         "num_port_bits":     2,
+         "num_memories":      0,
+         "num_memory_bits":   0,
+         "num_processes":     0,
+         "num_cells":         0,
+         "num_submodules":       0,
+         "num_cells_by_type": {
+
+         }
+      }
+   },
+      "design": {
+         "num_wires":         2,
+         "num_wire_bits":     2,
+         "num_pub_wires":     2,
+         "num_pub_wire_bits": 2,
+         "num_ports":         2,
+         "num_port_bits":     2,
+         "num_memories":      0,
+         "num_memory_bits":   0,
+         "num_processes":     0,
+         "num_cells":         0,
+         "num_submodules":       0,
+         "num_cells_by_type": {
+
+         }
+      }
+}
+

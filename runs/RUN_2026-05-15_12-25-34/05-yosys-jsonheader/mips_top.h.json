@@ -1,0 +1,40 @@
+{
+  "creator": "Yosys 0.62 (git sha1 7326bb7d6641500ecb285c291a54a662cb1e76cf, clang++ 21.1.2 -fPIC -O3)",
+  "modules": {
+    "mips_top": {
+      "attributes": {
+        "hdlname": "mips_top",
+        "top": "00000000000000000000000000000001",
+        "src": "/Users/rein/mips_pipeline/src/mips_top.v:1.1-86.10"
+      },
+      "ports": {
+        "clk": {
+          "direction": "input",
+          "bits": [ 2 ]
+        },
+        "rst": {
+          "direction": "input",
+          "bits": [ 3 ]
+        }
+      },
+      "cells": {
+      },
+      "netnames": {
+        "clk": {
+          "hide_name": 0,
+          "bits": [ 2 ],
+          "attributes": {
+            "src": "/Users/rein/mips_pipeline/src/mips_top.v:2.11-2.14"
+          }
+        },
+        "rst": {
+          "hide_name": 0,
+          "bits": [ 3 ],
+          "attributes": {
+            "src": "/Users/rein/mips_pipeline/src/mips_top.v:2.16-2.19"
+          }
+        }
+      }
+    }
+  }
+}

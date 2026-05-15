@@ -1,0 +1,27 @@
+%Warning-UNDRIVEN: /Users/rein/mips_pipeline/src/mips_top.v:6:48: Signal is not driven: 'instr_mem'
+                                                                : ... note: In instance 'mips_top'
+    6 |     (* ram_style = "distributed" *) reg [31:0] instr_mem [0:255];
+      |                                                ^~~~~~~~~
+                   ... For warning description see https://verilator.org/warn/UNDRIVEN?v=5.044
+                   ... Use "/* verilator lint_off UNDRIVEN */" and lint_on around source to disable this message.
+%Warning-UNUSEDSIGNAL: /Users/rein/mips_pipeline/src/mips_top.v:44:17: Signal is not used: 'idex_pc'
+                                                                     : ... note: In instance 'mips_top'
+   44 |     wire [31:0] idex_pc, idex_rd1, idex_rd2, idex_imm;
+      |                 ^~~~~~~
+                       ... For warning description see https://verilator.org/warn/UNUSEDSIGNAL?v=5.044
+                       ... Use "/* verilator lint_off UNUSEDSIGNAL */" and lint_on around source to disable this message.
+%Warning-UNUSEDSIGNAL: /Users/rein/mips_pipeline/src/mips_top.v:65:17: Signal is not used: 'exmem_zero'
+                                                                     : ... note: In instance 'mips_top'
+   65 |     wire        exmem_zero, exmem_branch, exmem_mem_read, exmem_mem_write;
+      |                 ^~~~~~~~~~
+%Warning-UNUSEDSIGNAL: /Users/rein/mips_pipeline/src/mips_top.v:65:29: Signal is not used: 'exmem_branch'
+                                                                     : ... note: In instance 'mips_top'
+   65 |     wire        exmem_zero, exmem_branch, exmem_mem_read, exmem_mem_write;
+      |                             ^~~~~~~~~~~~
+%Warning-UNUSEDSIGNAL: /Users/rein/mips_pipeline/src/data_memory.v:3:19: Bits of signal are not used: 'addr'[31:10,1:0]
+                                                                       : ... note: In instance 'mips_top.dmem'
+    3 |     input  [31:0] addr, wd,
+      |                   ^~~~
+- V e r i l a t i o n   R e p o r t: Verilator 5.044 2026-01-01 rev v5.040
+- Verilator: Built from 1.915 MB sources in 456 modules, into 0.002 MB in 3 C++ files needing 0.000 MB
+- Verilator: Walltime 0.079 s (elab=0.018, cvt=0.021, bld=0.000); cpu 0.063 s on 1 threads; alloced 21.000 MB

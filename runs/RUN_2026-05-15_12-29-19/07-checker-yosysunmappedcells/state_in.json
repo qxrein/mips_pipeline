@@ -1,0 +1,14 @@
+{
+    "json_h": "/Users/rein/mips_pipeline/runs/RUN_2026-05-15_12-29-19/05-yosys-jsonheader/mips_top.h.json",
+    "nl": "/Users/rein/mips_pipeline/runs/RUN_2026-05-15_12-29-19/06-yosys-synthesis/mips_top.nl.v",
+    "metrics": {
+        "design__lint_error__count": 0,
+        "design__lint_timing_construct__count": 0,
+        "design__lint_warning__count": 5,
+        "design__inferred_latch__count": 0,
+        "design__instance__count": 180,
+        "design__instance__area": 1591.5264,
+        "design__instance_unmapped__count": 0,
+        "synthesis__check_error__count": 0
+    }
+}

@@ -1,0 +1,14 @@
+Subprocess had a non-zero exit.
+Last 10 line(s):
+No latch inferred for signal `\register_file.$memwr$\regs$/Users/rein/mips_pipeline/src/register_file.v:9$59_EN' from process `\register_file.$proc$/Users/rein/mips_pipeline/src/register_file.v:9$108'.
+No latch inferred for signal `\register_file.$memwr$\regs$/Users/rein/mips_pipeline/src/register_file.v:9$60_EN' from process `\register_file.$proc$/Users/rein/mips_pipeline/src/register_file.v:9$108'.
+No latch inferred for signal `\register_file.$memwr$\regs$/Users/rein/mips_pipeline/src/register_file.v:9$61_EN' from process `\register_file.$proc$/Users/rein/mips_pipeline/src/register_file.v:9$108'.
+No latch inferred for signal `\register_file.$memwr$\regs$/Users/rein/mips_pipeline/src/register_file.v:9$62_EN' from process `\register_file.$proc$/Users/rein/mips_pipeline/src/register_file.v:9$108'.
+No latch inferred for signal `\register_file.$memwr$\regs$/Users/rein/mips_pipeline/src/register_file.v:9$63_EN' from process `\register_file.$proc$/Users/rein/mips_pipeline/src/register_file.v:9$108'.
+No latch inferred for signal `\alu.\result' from process `\alu.$proc$/Users/rein/mips_pipeline/src/alu.v:7$23'.
+
+13.9. Executing PROC_DFF pass (convert process syncs to FFs).
+Creating register for signal `\mips_top.\pc' using process `\mips_top.$proc$/Users/rein/mips_pipeline/src/mips_top.v:10$4'.
+ERROR: Multiple edge sensitive events found for this signal!
+
+Full log file: 'runs/RUN_2026-05-15_12-19-11/05-yosys-jsonheader/yosys-jsonheader.log'
